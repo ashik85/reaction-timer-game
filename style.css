@@ -1,15 +1,14 @@
-           body {
+            body {
                 
                 font-family: sans-serif;
-                
+                background-color: #e3dfc8;
             }
-        
+
+           
             #shape {
                 
                 width: 200px;
                 height: 200px;
-                background-color: red;
-                display: none;
                 position: relative;
                 
             }
@@ -18,4 +17,13 @@
                 
                 font-weight: bold;
                 
+            }
+
+             .italic{
+                font-style: italic;
+            }
+        
+
+            .hidden{
+                display: none;
             }
