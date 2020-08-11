@@ -1,1 +1,2 @@
-# reaction-timer-game
+# Reaction-Timer
+A mini game
