@@ -1,2 +1,2 @@
 # Reaction-Timer
-A mini game
+A leisure-time quick game
